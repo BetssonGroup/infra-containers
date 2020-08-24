@@ -1,5 +1,5 @@
 # infra-containers
-Betsson pubic infrastructure containers
+Betsson public infrastructure containers
 
 Opinionated infrastructure containers.
 
